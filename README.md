@@ -35,7 +35,7 @@ We used historical data to train machine learning models and predict environment
 
 1.  Clone the repository.
 2.  Install the required libraries: `pip install numpy pandas matplotlib scikit-learn`
-3.  Run the Jupyter Notebook: `your_notebook_name.ipynb`
+3.  Run the Python file: `projeto_ml.py`
 
 ## Contact
 
@@ -78,7 +78,7 @@ Utilizamos dados históricos para treinar modelos de aprendizado de máquina e p
 
 1.  Clone o repositório.
 2.  Instale as bibliotecas necessárias: `pip install numpy pandas matplotlib scikit-learn`
-3.  Execute o Jupyter Notebook: `nome_do_seu_notebook.ipynb`
+3.  Execute o arquivo .py: `projeto_ml.py`
 
 ## Contato
 
